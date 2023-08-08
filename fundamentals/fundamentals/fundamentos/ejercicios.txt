@@ -1,0 +1,82 @@
+Uno de los requisitos es programar una serie de ejercicios
+considerando lo aprendido en el semestre de PGY1121.
+A continuación, se detallan los enunciados a desarrollar:
+
+
+1. Operaciones Matemáticas
+Ingrese un número entero por teclado entre 5 y 100, ambos inclusive.
+Aplique las fórmulas necesarias
+para indicar:
+- Si es un número par o impar
+- Si el número es o no primo
+- Muestre el número en ambos casos.
+● El número par es aquel que al dividirlo por 2 su resto es cero
+● El número primo es aquel que es positivo y que es divisible por 1 y
+por sí mismo
+
+2. Arreglos
+Se considera un arreglo bidimensional de 3 x 3, el cual debe ser
+declarado y poblado con números
+enteros entre 1 y 100, ambos inclusive, utilizando la función random,
+luego realice las siguientes
+operaciones:
+- Muestre los elementos de la diagonal principal del arreglo.
+- Recorra la matriz por filas y cada elemento debe almacenarlo en un
+arreglo unidimensional.
+- Muestre el arreglo bidimensional y el arreglo unidimensional.
+- Utilice algún método de ordenamiento, para ordenar el arreglo
+unidimensional, en forma
+ascendente.
+- Muestre el arreglo resultante.
+Ejemplo de lo solicitado:
+Matriz 3x3
+
+Elementos de la Matriz por filas al Arreglo unidimensional
+
+Elementos del Arreglo Unidimensional ordenado
+
+3. Funciones
+Crear el siguiente menú de opciones:
+1. Factorial
+2. Invertir número
+3. Lista con nombres de personas
+4. Salir
+Se pide validar el rango de las opciones, en caso contrario emitir
+mensaje de error y volver a solicitar
+opción. Además, estas opciones deben ser desarrolladas a través de funciones.
+Instrucciones Opción 1:
+- Ingresar un número entero positivo por teclado en el programa principal
+- En la función, calcular factorial del número.
+- Mostrar número ingresado y resultado obtenido.
+● Factorial: Corresponde a multiplicaciones sucesivas entre el número
+1 hasta el número
+ingresado y se representa con el signo de exclamación.
+Ejemplo:
+4! = 1 x 2 x 3 x 4
+Factorial de 4 es 24
+
+
+
+Instrucciones Opción 2:
+- Ingresar un número entero por teclado entre 15 y 125.
+- En la función invertir, mostrar número invertido.
+- Utilice las 4 operaciones matemáticas básicas (suma, resta,
+multiplicación y división)
+Ejemplo:
+El número ingresado es 123
+
+Instrucciones Opción 3:
+- Solicitar cantidad de nombres a ingresar en la lista.
+- Ingresar nombres.
+- La función Listar, debe mostrar todos los nombres almacenados
+Ejemplo:
+Cantidad = 3
+Juan
+Luis
+María
+Mostrar: Juan, Luis, María
+
+Instrucciones Opción 4:
+- Salir del programa, enviando un mensaje de salida.
+Ejemplo:
+“Usted saldrá del programa”
